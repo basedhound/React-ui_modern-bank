@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://gpt3-fv.netlify.app/" target="_blank">
+    <a href="https://hoobank-fv.netlify.app" target="_blank">
       <img src="public/design/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Bank - React UI</h3>
