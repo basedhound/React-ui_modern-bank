@@ -33,9 +33,9 @@
 
 👉 React file and folder structure.
 
-👉 Tailwind CSS styling
+👉 Tailwind CSS styling.
 
-👉 Fundamental CSS properties to master flex
+👉 Fundamental CSS properties to master flex.
 
 👉 Soft animations and complex gradients.
 
