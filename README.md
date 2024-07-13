@@ -2,7 +2,7 @@
     <a href="https://hoobank-fv.netlify.app" target="_blank">
       <img src="public/design/preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Bank - React UI</h3>
+  <h3 align="center">HooBank UI</h3>
 </div>
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
@@ -29,17 +29,19 @@
 
 ## <br/> <a name="features">📝 Features</a>
 
-👉 React functional reusable components.
+👉 CSS Variables: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project.
 
-👉 React file and folder structure.
+👉 Flex and Position Properties: Use of flex and position properties in CSS to create responsive and well-structured layouts.
 
-👉 Tailwind CSS styling.
+👉 Rendering HTML through JavaScript: Rendering HTML through JavaScript using reusable functions, enhancing code efficiency.
 
-👉 Fundamental CSS properties to master flex.
+👉 Smooth Animations: Smooth and subtle animations to enhance the overall user experience, focusing on fluid transitions.
 
-👉 Soft animations and complex gradients.
+👉 BEM Method: Follow the Block Element Modifier (BEM) methodology for naming classes, promoting a clear and maintainable structure.
 
-👉 Media queries for satisfactory responsiveness covering almost devices.
+👉 Organized File and Folder Structure: Maintain a well-organized file and folder structure for easy navigation and management of project assets.
+
+👉 Responsive Design: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
@@ -75,9 +77,9 @@ yarn install
 Installation will take a minute or two, but once that's done, you should be able to run the following command:
 
 ```bash
-npm run dev
+npm start
 # or
-yarn dev
+yarn start
 ```
 
 Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
